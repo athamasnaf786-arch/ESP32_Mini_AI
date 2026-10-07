@@ -1,0 +1,963 @@
+[
+  {
+    "category": "Nature",
+    "question": "What is photosynthesis?",
+    "keywords": [
+      "photosynthesis",
+      "plants food"
+    ],
+    "answer": "🌱 Photosynthesis is how green plants use sunlight to make food and release oxygen."
+  },
+  {
+    "category": "Nature",
+    "question": "Why are trees important?",
+    "keywords": [
+      "trees important",
+      "importance trees"
+    ],
+    "answer": "🌳 Trees provide oxygen, absorb carbon dioxide, give shade and support wildlife."
+  },
+  {
+    "category": "Nature",
+    "question": "What is biodiversity?",
+    "keywords": [
+      "biodiversity",
+      "biological diversity"
+    ],
+    "answer": "🦋 Biodiversity means the variety of living organisms in an area."
+  },
+  {
+    "category": "Nature",
+    "question": "What is an ecosystem?",
+    "keywords": [
+      "ecosystem",
+      "eco system"
+    ],
+    "answer": "🌍 An ecosystem is a community of living things interacting with their environment."
+  },
+  {
+    "category": "Nature",
+    "question": "Why should we protect forests?",
+    "keywords": [
+      "protect forests",
+      "save forests"
+    ],
+    "answer": "🌳 Forests protect biodiversity, store carbon and help maintain the water cycle."
+  },
+  {
+    "category": "Nature",
+    "question": "What is pollution?",
+    "keywords": [
+      "pollution",
+      "pollute"
+    ],
+    "answer": "🌫️ Pollution is the harmful contamination of air, water or land."
+  },
+  {
+    "category": "Nature",
+    "question": "How can we reduce plastic waste?",
+    "keywords": [
+      "reduce plastic",
+      "plastic waste"
+    ],
+    "answer": "♻️ Use reusable items, avoid unnecessary plastic and recycle when possible."
+  },
+  {
+    "category": "Nature",
+    "question": "Why is clean water important?",
+    "keywords": [
+      "clean water",
+      "water important"
+    ],
+    "answer": "💧 Clean water is essential for health, farming, ecosystems and daily life."
+  },
+  {
+    "category": "Nature",
+    "question": "What is the water cycle?",
+    "keywords": [
+      "water cycle",
+      "water cycling"
+    ],
+    "answer": "💧 Water moves through evaporation, condensation, precipitation and collection."
+  },
+  {
+    "category": "Nature",
+    "question": "What is climate change?",
+    "keywords": [
+      "climate change",
+      "global warming"
+    ],
+    "answer": "🌍 Climate change is a long-term change in Earth's climate, largely driven today by human activities."
+  },
+  {
+    "category": "Nature",
+    "question": "What is renewable energy?",
+    "keywords": [
+      "renewable energy",
+      "renewable"
+    ],
+    "answer": "☀️ Renewable energy comes from sources that naturally replenish, such as sunlight and wind."
+  },
+  {
+    "category": "Nature",
+    "question": "Why are bees important?",
+    "keywords": [
+      "bees important",
+      "importance bees"
+    ],
+    "answer": "🐝 Bees pollinate many plants and help food-producing ecosystems."
+  },
+  {
+    "category": "Nature",
+    "question": "What is conservation?",
+    "keywords": [
+      "conservation",
+      "nature conservation"
+    ],
+    "answer": "🌿 Conservation means protecting and wisely managing natural resources and wildlife."
+  },
+  {
+    "category": "Nature",
+    "question": "Why should we save water?",
+    "keywords": [
+      "save water",
+      "water saving"
+    ],
+    "answer": "💧 Saving water protects a vital resource and reduces energy used to move and treat water."
+  },
+  {
+    "category": "Nature",
+    "question": "What is a habitat?",
+    "keywords": [
+      "habitat",
+      "animal habitat"
+    ],
+    "answer": "🏞️ A habitat is the natural place where an organism lives and gets what it needs."
+  },
+  {
+    "category": "Nature",
+    "question": "Why are oceans important?",
+    "keywords": [
+      "oceans important",
+      "importance oceans"
+    ],
+    "answer": "🌊 Oceans support huge ecosystems, influence climate and provide food and resources."
+  },
+  {
+    "category": "Nature",
+    "question": "What is an endangered species?",
+    "keywords": [
+      "endangered species",
+      "endangered animal"
+    ],
+    "answer": "🦏 An endangered species faces a high risk of extinction in the wild."
+  },
+  {
+    "category": "Nature",
+    "question": "How can students help nature?",
+    "keywords": [
+      "students help nature",
+      "help nature"
+    ],
+    "answer": "🌱 Save water, reduce waste, plant suitable trees and protect local wildlife."
+  },
+  {
+    "category": "Nature",
+    "question": "Why is soil important?",
+    "keywords": [
+      "soil important",
+      "importance soil"
+    ],
+    "answer": "🌾 Soil supports plants, stores water and provides habitat for many organisms."
+  },
+  {
+    "category": "Nature",
+    "question": "What is recycling?",
+    "keywords": [
+      "recycling",
+      "recycle"
+    ],
+    "answer": "♻️ Recycling turns suitable waste materials into useful new products."
+  },
+  {
+    "category": "AI",
+    "question": "What is AI?",
+    "keywords": [
+      "what is ai",
+      "artificial intelligence"
+    ],
+    "answer": "🤖 AI means Artificial Intelligence: technology that performs tasks that can require human-like intelligence."
+  },
+  {
+    "category": "AI",
+    "question": "What is machine learning?",
+    "keywords": [
+      "machine learning",
+      "ml"
+    ],
+    "answer": "🧠 Machine learning lets computers learn patterns from data instead of being programmed for every case."
+  },
+  {
+    "category": "AI",
+    "question": "What is a chatbot?",
+    "keywords": [
+      "chatbot",
+      "chat bot"
+    ],
+    "answer": "💬 A chatbot is software that communicates with people using text or voice."
+  },
+  {
+    "category": "AI",
+    "question": "What is generative AI?",
+    "keywords": [
+      "generative ai",
+      "gen ai"
+    ],
+    "answer": "✨ Generative AI creates new content such as text, images, audio or code from learned patterns."
+  },
+  {
+    "category": "AI",
+    "question": "Can AI learn?",
+    "keywords": [
+      "can ai learn",
+      "ai learn"
+    ],
+    "answer": "🧠 Yes. Many AI systems learn patterns from training data."
+  },
+  {
+    "category": "AI",
+    "question": "What is a neural network?",
+    "keywords": [
+      "neural network",
+      "neural networks"
+    ],
+    "answer": "🧠 A neural network is a computing model made of connected units that can learn patterns."
+  },
+  {
+    "category": "AI",
+    "question": "What is computer vision?",
+    "keywords": [
+      "computer vision",
+      "vision ai"
+    ],
+    "answer": "👁️ Computer vision helps computers analyze and understand images and video."
+  },
+  {
+    "category": "AI",
+    "question": "What is natural language processing?",
+    "keywords": [
+      "natural language processing",
+      "nlp"
+    ],
+    "answer": "💬 NLP helps computers process and understand human language."
+  },
+  {
+    "category": "AI",
+    "question": "What is an AI model?",
+    "keywords": [
+      "ai model",
+      "model ai"
+    ],
+    "answer": "🤖 An AI model is a trained computational system that produces outputs from inputs."
+  },
+  {
+    "category": "AI",
+    "question": "What is training data?",
+    "keywords": [
+      "training data",
+      "ai data"
+    ],
+    "answer": "📚 Training data is information used to teach an AI model patterns."
+  },
+  {
+    "category": "AI",
+    "question": "Can AI make mistakes?",
+    "keywords": [
+      "ai mistakes",
+      "ai wrong"
+    ],
+    "answer": "⚠️ Yes. AI can produce incorrect or biased answers, so important results should be checked."
+  },
+  {
+    "category": "AI",
+    "question": "What is an AI assistant?",
+    "keywords": [
+      "ai assistant",
+      "virtual assistant"
+    ],
+    "answer": "🤖 An AI assistant is software designed to understand requests and help with tasks or information."
+  },
+  {
+    "category": "AI",
+    "question": "What is an algorithm?",
+    "keywords": [
+      "algorithm",
+      "algorithms"
+    ],
+    "answer": "⚙️ An algorithm is a step-by-step procedure for solving a problem or completing a task."
+  },
+  {
+    "category": "AI",
+    "question": "What is automation?",
+    "keywords": [
+      "automation",
+      "automate"
+    ],
+    "answer": "⚙️ Automation uses technology to perform tasks with little or no manual effort."
+  },
+  {
+    "category": "AI",
+    "question": "What is IoT?",
+    "keywords": [
+      "iot",
+      "internet of things"
+    ],
+    "answer": "🌐 IoT connects physical devices so they can collect, exchange or act on data."
+  },
+  {
+    "category": "AI",
+    "question": "Can ESP32 run ChatGPT locally?",
+    "keywords": [
+      "esp32 chatgpt",
+      "chatgpt esp32"
+    ],
+    "answer": "🔧 Not a full ChatGPT model. ESP32 is better suited to lightweight logic and IoT control."
+  },
+  {
+    "category": "AI",
+    "question": "Why use AI in education?",
+    "keywords": [
+      "ai education",
+      "education ai"
+    ],
+    "answer": "🎓 AI can personalize learning, explain concepts and help students practice."
+  },
+  {
+    "category": "AI",
+    "question": "What is responsible AI?",
+    "keywords": [
+      "responsible ai",
+      "ethical ai"
+    ],
+    "answer": "🛡️ Responsible AI aims for safe, fair, transparent and accountable use of AI."
+  },
+  {
+    "category": "AI",
+    "question": "Will AI replace every job?",
+    "keywords": [
+      "ai replace jobs",
+      "ai jobs"
+    ],
+    "answer": "💼 AI may automate some tasks, but many jobs will change rather than disappear completely."
+  },
+  {
+    "category": "AI",
+    "question": "What is an AI database?",
+    "keywords": [
+      "ai database",
+      "knowledge database"
+    ],
+    "answer": "🗃️ An AI knowledge database stores structured information that a system can search to answer questions."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a vehicle?",
+    "keywords": [
+      "vehicle",
+      "vehicles"
+    ],
+    "answer": "🚗 A vehicle is a machine used to transport people or goods."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is an electric vehicle?",
+    "keywords": [
+      "electric vehicle",
+      "ev"
+    ],
+    "answer": "⚡ An electric vehicle uses electric motors powered by batteries or another electrical source."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a hybrid vehicle?",
+    "keywords": [
+      "hybrid vehicle",
+      "hybrid car"
+    ],
+    "answer": "🔋 A hybrid vehicle combines an electric drive system with an internal-combustion engine."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is an EV battery?",
+    "keywords": [
+      "ev battery",
+      "electric car battery"
+    ],
+    "answer": "🔋 An EV battery stores electrical energy used to power the vehicle's motor."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is regenerative braking?",
+    "keywords": [
+      "regenerative braking",
+      "regen braking"
+    ],
+    "answer": "♻️ Regenerative braking recovers some motion energy and converts it into electrical energy."
+  },
+  {
+    "category": "Vehicles",
+    "question": "Why are seat belts important?",
+    "keywords": [
+      "seat belt",
+      "seat belts"
+    ],
+    "answer": "🛡️ Seat belts reduce the risk of serious injury by restraining occupants during a crash."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is ABS?",
+    "keywords": [
+      "abs",
+      "anti lock braking"
+    ],
+    "answer": "🛑 ABS helps prevent wheels from locking during hard braking, improving steering control."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a sensor in a vehicle?",
+    "keywords": [
+      "vehicle sensor",
+      "car sensor"
+    ],
+    "answer": "📡 A vehicle sensor measures conditions such as speed, temperature or distance."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is autonomous driving?",
+    "keywords": [
+      "autonomous driving",
+      "self driving"
+    ],
+    "answer": "🤖 Autonomous driving uses sensors and software to perform some or all driving tasks."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a motor?",
+    "keywords": [
+      "vehicle motor",
+      "motor"
+    ],
+    "answer": "⚙️ A motor converts energy into mechanical motion."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is an engine?",
+    "keywords": [
+      "vehicle engine",
+      "engine"
+    ],
+    "answer": "🔥 An engine converts stored energy into mechanical power, commonly through combustion."
+  },
+  {
+    "category": "Vehicles",
+    "question": "Why are electric vehicles quiet?",
+    "keywords": [
+      "ev quiet",
+      "electric vehicles quiet"
+    ],
+    "answer": "⚡ Electric motors usually make less mechanical noise than combustion engines."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is vehicle-to-vehicle communication?",
+    "keywords": [
+      "v2v",
+      "vehicle communication"
+    ],
+    "answer": "📡 V2V lets nearby vehicles exchange safety-related information wirelessly."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a dashboard?",
+    "keywords": [
+      "dashboard",
+      "car dashboard"
+    ],
+    "answer": "🚘 A dashboard displays vehicle information such as speed, warnings and fuel or battery status."
+  },
+  {
+    "category": "Vehicles",
+    "question": "Why is tire pressure important?",
+    "keywords": [
+      "tire pressure",
+      "tyre pressure"
+    ],
+    "answer": "🛞 Correct tire pressure improves safety, handling, tire life and efficiency."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a GPS?",
+    "keywords": [
+      "gps",
+      "global positioning"
+    ],
+    "answer": "🛰️ GPS uses satellite signals to estimate a receiver's location."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a traffic signal?",
+    "keywords": [
+      "traffic signal",
+      "traffic light"
+    ],
+    "answer": "🚦 A traffic signal controls road movement to improve safety and order."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is vehicle maintenance?",
+    "keywords": [
+      "vehicle maintenance",
+      "car maintenance"
+    ],
+    "answer": "🔧 Vehicle maintenance means checking and servicing parts to keep a vehicle safe and reliable."
+  },
+  {
+    "category": "Vehicles",
+    "question": "What is a fuel-efficient vehicle?",
+    "keywords": [
+      "fuel efficient",
+      "fuel efficiency"
+    ],
+    "answer": "🌱 A fuel-efficient vehicle travels farther using less fuel."
+  },
+  {
+    "category": "Vehicles",
+    "question": "How can vehicles be more sustainable?",
+    "keywords": [
+      "sustainable vehicles",
+      "green vehicles"
+    ],
+    "answer": "🌱 Use efficient or electric vehicles, maintain them well and reduce unnecessary trips."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Tamil?",
+    "keywords": [
+      "what is tamil",
+      "tamil language"
+    ],
+    "answer": "🪷 Tamil is a classical language with a long literary and cultural history."
+  },
+  {
+    "category": "Tamil",
+    "question": "Where is Tamil widely spoken?",
+    "keywords": [
+      "where tamil spoken",
+      "tamil spoken"
+    ],
+    "answer": "🪷 Tamil is widely spoken in Tamil Nadu, Sri Lanka and by communities around the world."
+  },
+  {
+    "category": "Tamil",
+    "question": "Is Tamil a classical language?",
+    "keywords": [
+      "tamil classical",
+      "classical language tamil"
+    ],
+    "answer": "🏛️ Yes. Tamil is recognized by India as a classical language."
+  },
+  {
+    "category": "Tamil",
+    "question": "Who wrote Thirukkural?",
+    "keywords": [
+      "thirukkural writer",
+      "who wrote thirukkural"
+    ],
+    "answer": "📜 Thiruvalluvar is traditionally credited with composing the Thirukkural."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Thirukkural?",
+    "keywords": [
+      "thirukkural",
+      "tirukkural"
+    ],
+    "answer": "📖 Thirukkural is a famous Tamil work of couplets on ethics, society and life."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Sangam literature?",
+    "keywords": [
+      "sangam literature",
+      "sangam"
+    ],
+    "answer": "📚 Sangam literature is an important body of early Tamil poetry and works."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Tamil script?",
+    "keywords": [
+      "tamil script",
+      "tamil letters"
+    ],
+    "answer": "✍️ Tamil script is the writing system used for the Tamil language."
+  },
+  {
+    "category": "Tamil",
+    "question": "How many vowels are traditionally taught in Tamil?",
+    "keywords": [
+      "tamil vowels",
+      "uyir ezhuthu"
+    ],
+    "answer": "🔤 Tamil traditionally teaches 12 vowels called Uyir Ezhuthukkal."
+  },
+  {
+    "category": "Tamil",
+    "question": "How many consonants are traditionally taught in Tamil?",
+    "keywords": [
+      "tamil consonants",
+      "mei ezhuthu"
+    ],
+    "answer": "🔤 Tamil traditionally teaches 18 consonants called Mei Ezhuthukkal."
+  },
+  {
+    "category": "Tamil",
+    "question": "What are Uyirmei letters?",
+    "keywords": [
+      "uyirmei",
+      "uyir mei"
+    ],
+    "answer": "🔤 Uyirmei letters combine a Tamil vowel with a Tamil consonant."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Tamil literature?",
+    "keywords": [
+      "tamil literature",
+      "tamil books"
+    ],
+    "answer": "📚 Tamil literature includes poetry, grammar, philosophy, stories and many other works."
+  },
+  {
+    "category": "Tamil",
+    "question": "Why is Tamil important?",
+    "keywords": [
+      "why tamil important",
+      "importance tamil"
+    ],
+    "answer": "🪷 Tamil preserves a rich literary, cultural and historical tradition."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Tamil Nadu?",
+    "keywords": [
+      "tamil nadu",
+      "tamilnadu"
+    ],
+    "answer": "🇮🇳 Tamil Nadu is a state in southern India where Tamil is the main official language."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is the capital of Tamil Nadu?",
+    "keywords": [
+      "capital tamil nadu",
+      "tamil nadu capital"
+    ],
+    "answer": "🏙️ Chennai is the capital of Tamil Nadu."
+  },
+  {
+    "category": "Tamil",
+    "question": "What does Vanakkam mean?",
+    "keywords": [
+      "vanakkam meaning",
+      "meaning vanakkam"
+    ],
+    "answer": "🙏 “Vanakkam” is a common Tamil greeting expressing respect."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is a Tamil proverb?",
+    "keywords": [
+      "tamil proverb",
+      "tamil proverbs"
+    ],
+    "answer": "💡 A Tamil proverb is a short traditional saying that conveys practical wisdom."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is classical literature?",
+    "keywords": [
+      "classical literature",
+      "classical tamil literature"
+    ],
+    "answer": "📜 Classical literature is older, influential literature valued for its lasting cultural and literary significance."
+  },
+  {
+    "category": "Tamil",
+    "question": "Why learn Tamil?",
+    "keywords": [
+      "learn tamil",
+      "why learn tamil"
+    ],
+    "answer": "🪷 Learning Tamil helps connect with its language, literature, history and culture."
+  },
+  {
+    "category": "Tamil",
+    "question": "What is Tamil poetry?",
+    "keywords": [
+      "tamil poetry",
+      "tamil poem"
+    ],
+    "answer": "🎶 Tamil poetry is a major literary tradition with ancient and modern forms."
+  },
+  {
+    "category": "Tamil",
+    "question": "How can students preserve Tamil?",
+    "keywords": [
+      "preserve tamil",
+      "save tamil language"
+    ],
+    "answer": "📚 Read Tamil, speak it, write it, learn its literature and share it respectfully."
+  },
+  {
+    "category": "Solar System",
+    "question": "How many planets are in the Solar System?",
+    "keywords": [
+      "how many planets",
+      "number of planets"
+    ],
+    "answer": "🪐 There are 8 recognized planets in our Solar System."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Sun?",
+    "keywords": [
+      "what is sun",
+      "sun"
+    ],
+    "answer": "☀️ The Sun is the star at the center of our Solar System."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the closest planet to the Sun?",
+    "keywords": [
+      "closest planet sun",
+      "nearest planet sun"
+    ],
+    "answer": "☀️ Mercury is the closest planet to the Sun."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet is known as the Red Planet?",
+    "keywords": [
+      "red planet",
+      "red planet name"
+    ],
+    "answer": "🔴 Mars is known as the Red Planet."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which is the largest planet?",
+    "keywords": [
+      "largest planet",
+      "biggest planet"
+    ],
+    "answer": "🪐 Jupiter is the largest planet in our Solar System."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet has prominent rings?",
+    "keywords": [
+      "planet rings",
+      "rings planet"
+    ],
+    "answer": "💍 Saturn is famous for its prominent ring system."
+  },
+  {
+    "category": "Solar System",
+    "question": "Which planet is called Earth's twin?",
+    "keywords": [
+      "earth twin",
+      "earth twin planet"
+    ],
+    "answer": "🌍 Venus is often called Earth's twin because of its similar size, though its environment is very different."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is Earth?",
+    "keywords": [
+      "what is earth",
+      "earth planet"
+    ],
+    "answer": "🌍 Earth is the planet we live on and the only world currently known to support life."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Moon?",
+    "keywords": [
+      "what is moon",
+      "moon"
+    ],
+    "answer": "🌙 The Moon is Earth's natural satellite."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is an asteroid?",
+    "keywords": [
+      "asteroid",
+      "asteroids"
+    ],
+    "answer": "☄️ An asteroid is a rocky body that orbits the Sun."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is a comet?",
+    "keywords": [
+      "comet",
+      "comets"
+    ],
+    "answer": "☄️ A comet is an icy body that can develop a glowing coma and tail near the Sun."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is a galaxy?",
+    "keywords": [
+      "galaxy",
+      "galaxies"
+    ],
+    "answer": "🌌 A galaxy is a huge system of stars, gas, dust and other matter bound by gravity."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is the Milky Way?",
+    "keywords": [
+      "milky way",
+      "milky way galaxy"
+    ],
+    "answer": "🌌 The Milky Way is the galaxy that contains our Solar System."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is a planet?",
+    "keywords": [
+      "what is planet",
+      "planet definition"
+    ],
+    "answer": "🪐 A planet is a large body that orbits a star and meets the accepted criteria for planetary classification."
+  },
+  {
+    "category": "Solar System",
+    "question": "Why does Earth have day and night?",
+    "keywords": [
+      "day and night",
+      "earth day night"
+    ],
+    "answer": "🌍 Day and night happen because Earth rotates on its axis."
+  },
+  {
+    "category": "Solar System",
+    "question": "Why do planets orbit the Sun?",
+    "keywords": [
+      "planet orbit sun",
+      "why orbit"
+    ],
+    "answer": "☀️ The Sun's gravity keeps the planets in orbit around it."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is gravity?",
+    "keywords": [
+      "gravity",
+      "what is gravity"
+    ],
+    "answer": "🍎 Gravity is the force that attracts masses toward each other."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is a dwarf planet?",
+    "keywords": [
+      "dwarf planet",
+      "dwarf planets"
+    ],
+    "answer": "🪐 A dwarf planet orbits the Sun and is nearly round but has not cleared its orbital neighborhood."
+  },
+  {
+    "category": "Solar System",
+    "question": "What is a light-year?",
+    "keywords": [
+      "light year",
+      "light-year"
+    ],
+    "answer": "✨ A light-year is the distance light travels in vacuum in one year."
+  },
+  {
+    "category": "Solar System",
+    "question": "Can humans live on the Sun?",
+    "keywords": [
+      "live on sun",
+      "humans sun"
+    ],
+    "answer": "☀️ No. The Sun is extremely hot and has no solid surface suitable for human life."
+  },
+  {
+    "category": "Robot",
+    "question": "What are the disadvantages of this robot?",
+    "keywords": [
+      "robot disadvantages",
+      "disadvantages robot",
+      "robot limitation",
+      "limitations robot"
+    ],
+    "answer": "⚠️ It needs electricity, depends on its programmed knowledge, and may not understand every request."
+  },
+  {
+    "category": "Advice",
+    "question": "Give me some friendly advice.",
+    "keywords": [
+      "friendly advice",
+      "give advice",
+      "advice",
+      "suggestion"
+    ],
+    "answer": "💚 Stay curious, save energy, respect nature and keep learning every day."
+  },
+  {
+    "category": "Advice",
+    "question": "How can I save electricity?",
+    "keywords": [
+      "save electricity",
+      "save energy",
+      "electricity saving"
+    ],
+    "answer": "⚡ Switch off unused lights and use only the light you need."
+  },
+  {
+    "category": "Robot",
+    "question": "What is the purpose of this project?",
+    "keywords": [
+      "purpose project",
+      "project purpose",
+      "what does this project do"
+    ],
+    "answer": "🤖 It combines a small knowledge base with ESP32 IoT light control through Telegram."
+  },
+  {
+    "category": "Robot",
+    "question": "Who are you?",
+    "keywords": [
+      "who are you",
+      "what are you"
+    ],
+    "answer": "🤖 I'm an ESP32 Mini AI Smart Assistant for knowledge and light control."
+  },
+  {
+    "category": "Robot",
+    "question": "What can you do?",
+    "keywords": [
+      "what can you do",
+      "your functions",
+      "your function"
+    ],
+    "answer": "💡 I answer short questions, give advice and control 4 lights through Telegram."
+  }
+]
